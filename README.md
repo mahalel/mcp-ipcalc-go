@@ -47,18 +47,6 @@ To use this tool with Claude Desktop, add the following configuration to your `c
 {
   "mcpServers": {
     "ipcalc": {
-      "command": "mcp-ipcalc-go"
-    }
-  }
-}
-```
-
-If you built the binary manually, specify the full path to where you placed it:
-
-```json
-{
-  "mcpServers": {
-    "ipcalc": {
       "command": "/path/to/your/mcp-ipcalc-go"
     }
   }
