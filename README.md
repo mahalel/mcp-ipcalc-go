@@ -2,10 +2,11 @@
 
 A Go-based MCP (Model Control Protocol) server that provides IP address calculation functionality, similar to the `ipcalc` command-line tool in Linux.
 
+https://github.com/user-attachments/assets/44ece6c5-2fea-4dac-bc5a-07a575a4c950
+
 ## Features
 
 - **IP Information**: Get detailed information about an IP address including network, netmask, broadcast, and usable hosts
-- **Subnet Splitting**: Divide a network into smaller subnets with a specified prefix length
 - **Netmask Details**: Display detailed information about a network mask in decimal, binary, and hex formats
 
 ## Installation
